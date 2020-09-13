@@ -37,12 +37,12 @@ During my investigation of the relationships in this part,we didn't observed fea
 In this presentation,I presented univariate visualization, bivariate visualization and multivariate visualization.In the univariate visualization, I presented the histogram of the duration_in_min and the logged form of duration_in_min, the count plot for the trip starting hour and trip starting day.Al last, I presented the proportion of user type and bike type in pie chart.In the bivariate visualization section,I showed the interactions between user type, bike type,trip starting day of the week and trip starting hour of the day.Then in the heatmap,I visualized the count by trip starting hour of the day and trip strating day of the week.In the multivariate visualization, I explored the relations between bike use duration(in min) with user type ,bike type, trip starting hour of the day and trip starting day of the week.
 
 ## Links
-The original data is here:https://github.com/LeiZhang0919/Data-Visualization-for-Baywheels-Bike/blob/master/202008-baywheels-tripdata.csv.zip   
+The original data is here:https://github.com/LeiZhang0919/Analysis-and-Visualization-of-Baywheels-bike/blob/master/202008-baywheels-tripdata.csv.zip
 
-The analysis and visualization process here:https://github.com/LeiZhang0919/Data-Visualization-for-Baywheels-Bike/blob/master/Analysis%20and%20visualization%20of%20Baywheels.ipynb    
+The analysis and visualization process here:https://github.com/LeiZhang0919/Analysis-and-Visualization-of-Baywheels-bike/blob/master/Analysis_and_visualization_of_Baywheels_Project.ipynb    
 
-This code was used to bloke the visualization code during presentation:https://github.com/LeiZhang0919/Data-Visualization-for-Baywheels-Bike/blob/master/output-toggle.tpl    
+This code was used to bloke the visualization code during presentation:https://github.com/LeiZhang0919/Analysis-and-Visualization-of-Baywheels-bike/blob/master/output-toggle.tpl
 
- The slides in html format:https://github.com/LeiZhang0919/Data-Visualization-for-Baywheels-Bike/blob/master/slides_for_visualization.slides.html, you can download and play it on your browser.
+ The slides in html format:https://github.com/LeiZhang0919/Analysis-and-Visualization-of-Baywheels-bike/blob/master/Analysis_and_visualization_of_Baywheels_Project.slides.html, you can download and play it on your browser.
 
 
