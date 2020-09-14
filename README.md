@@ -2,7 +2,7 @@
 
 
 ## Introduction
-This project is about analysis and visualization of the Bay Wheels bike dataset, you can find original data in lyft website: https://s3.amazonaws.com/baywheels-data/index.html
+This project is about analysis and visualization of the Bay Wheels bike dataset, you can find original data  lyft website: https://s3.amazonaws.com/baywheels-data/index.html
 In the original dataset ,ther are more than 150,000 entries and 13 features.
 The features can be classified as three categories:     
 
